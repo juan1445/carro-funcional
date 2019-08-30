@@ -1,0 +1,41 @@
+.btn{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5%;
+    box-shadow: 1px 1px 5px gray;
+    color: white;
+    font-size: 2em
+}
+
+.btn:hover{
+    background-color: red;
+}
+
+.btn2{
+    background-color: green;
+    padding: 10px;
+    border-radius: 5%;
+    box-shadow: 1px 1px 5px gray;
+    color: white;
+    font-size: 2em
+}
+
+.btn2:hover{
+    background-color: rgb(70, 102, 23);
+}
+
+.container{
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+}
+
+.contador{
+    margin: 20px;
+    color: yellow;
+    font-size: 2.5em;
+}
+
+body{
+    background-image: url('mazda6.webp');
+}
